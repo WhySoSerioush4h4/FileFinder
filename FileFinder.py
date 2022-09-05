@@ -1,8 +1,8 @@
 # ***Some Codes were found from Stack Overflow and GeeksForGeeks.org and used for reference to better understand any modules used***
 
 # Gabriel Romano
-# CYB337
-# Investigations With Python
+# ---Redacted---
+# ---Redacted---
 import os
 import os.path
  
