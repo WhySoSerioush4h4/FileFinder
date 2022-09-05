@@ -1,6 +1,6 @@
 # ***Some Codes were found from Stack Overflow and GeeksForGeeks.org and used for reference to better understand any modules used***
 
-# Gabriel Romano
+# Gabriel
 # ---Redacted---
 # ---Redacted---
 import os
